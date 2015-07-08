@@ -1,0 +1,119 @@
+{
+    "images": [],
+    "categories": [],
+    "brand": "brand1",
+    "publish": "1",
+    "dimension": {},
+    "metafields": {},
+    "inventory_management": "none",
+    "inventory_management_level": "variant",
+    "inventory_low_stock_quantity": "5",
+    "options": [
+    {
+        "name": "color",
+        "values": ["red", "green"]
+    },
+    {
+        "name": "size",
+        "values": ["M", "XL"]
+    }
+],
+    "SEO": {},
+    "attributes": [],
+    "features": [],
+    "description": "",
+    "name": "test1",
+    "alias": "test1",
+    "price": 100,
+    "compare_price": 101,
+    "sku": "100",
+    "weight": "100",
+
+    "variants": [
+    {
+        "options": [
+            {
+                "name": "color",
+                "value": "red"
+            },
+            {
+                "name": "size",
+                "value": "M"
+            }
+        ],
+        "id": 63473,
+        "price": "100",
+        "compare_price": "101",
+        "sku": "100",
+        "weight": "100",
+        "dimension": {},
+        "inventory_management": "none",
+        "inventory_low_stock_quantity": "5",
+        "variant_id": "red|M"
+    },
+    {
+        "options": [
+            {
+                "name": "color",
+                "value": "red"
+            },
+            {
+                "name": "size",
+                "value": "XL"
+            }
+        ],
+        "id": 69947,
+        "price": "100",
+        "compare_price": "101",
+        "sku": "100",
+        "weight": "100",
+        "dimension": {},
+        "inventory_management": "none",
+        "inventory_low_stock_quantity": "5",
+        "variant_id": "red|XL"
+    },
+    {
+        "options": [
+            {
+                "name": "color",
+                "value": "green"
+            },
+            {
+                "name": "size",
+                "value": "M"
+            }
+        ],
+        "id": 46238,
+        "price": "100",
+        "compare_price": "101",
+        "sku": "100",
+        "weight": "100",
+        "dimension": {},
+        "inventory_management": "none",
+        "inventory_low_stock_quantity": "5",
+        "variant_id": "green|M"
+    },
+    {
+        "options": [
+            {
+                "name": "color",
+                "value": "green"
+            },
+            {
+                "name": "size",
+                "value": "XL"
+            }
+        ],
+        "id": 11541,
+        "price": "100",
+        "compare_price": "101",
+        "sku": "100",
+        "weight": "100",
+        "dimension": {},
+        "inventory_management": "none",
+        "inventory_low_stock_quantity": "5",
+        "variant_id": "green|XL"
+    }
+], "available": 1,
+    "sort_order": 1
+    }
