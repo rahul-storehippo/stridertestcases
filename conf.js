@@ -7,6 +7,8 @@
  */
 exports.config = {
     seleniumAddress: 'http://localhost:4444/wd/hub',
+    chromeOnly: true,
+    chromeDriver: './node_modules/protractor/selenium/chromedriver',
     specs: ['spec.js'],
     capabilities: {
         'browserName': 'chrome'
