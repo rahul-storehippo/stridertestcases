@@ -16,7 +16,7 @@ describe('Adding a product',function(){
         })
     });
     beforeEach(function(done){
-        utils.get('/product.json',function(err,data){
+        utils.get('./product.json',function(err,data){
             product=data
              done();
         })
